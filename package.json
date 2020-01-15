@@ -1,0 +1,25 @@
+{
+  "name": "unit-12-mysql-homework-employee-tracker",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david197116/Unit-12-MySQL-Homework-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david197116/Unit-12-MySQL-Homework-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/david197116/Unit-12-MySQL-Homework-Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
+}
